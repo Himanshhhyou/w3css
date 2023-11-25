@@ -30,6 +30,3 @@ If you prefer to have more control over your project's dependencies or if you ar
    ```html
    <link rel="stylesheet" href="path/to/your/w3.css">
    ```
-
-   <h1 style="background-color: red;">Hello</h1>
-   - ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
