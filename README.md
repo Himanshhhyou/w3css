@@ -30,3 +30,5 @@ If you prefer to have more control over your project's dependencies or if you ar
    ```html
    <link rel="stylesheet" href="path/to/your/w3.css">
    ```
+
+   <h1 style="background-color: red;">Hello</h1>
