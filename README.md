@@ -13,18 +13,14 @@ W3CSS is a lightweight and responsive CSS framework developed by W3Schools, desi
 - **Pre-built Components:** W3CSS includes a range of pre-built components such as containers, navigation bars, modals, and cards, reducing development time.
 
 ## Steps to Add W3CSS in HTML
-
-1. **Include the Stylesheet:**
+### Adding W3CSS by CDN to your project
    Add the following link to your HTML file within the `<head>` section to include the W3CSS stylesheet.
    ```html
    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
    ```
 
-`### Adding W3CSS Locally to Your Project
-
-If you prefer to have more control over your project's dependencies or if you are working offline, you can download the W3CSS framework and include it locally in your project. This guide will walk you through the steps to download and add W3CSS to your HTML project.
-
-## Steps to Add W3CSS Locally
+### Adding W3CSS Locally to Your Project
+If you prefer to have more control over your project's dependencies or if you are working offline, you can download the W3CSS framework and include it locally in your project. 
 
 1. **Download W3CSS:**
    Visit the [W3CSS download page](https://www.w3schools.com/w3css/4/w3.css) and download the CSS file. Save it to your project directory.
