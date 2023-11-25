@@ -20,9 +20,7 @@ W3CSS is a lightweight and responsive CSS framework developed by W3Schools, desi
    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
    ```
 
-   # Adding W3CSS Locally to Your Project
-
-## Introduction
+## Adding W3CSS Locally to Your Project
 
 If you prefer to have more control over your project's dependencies or if you are working offline, you can download the W3CSS framework and include it locally in your project. This guide will walk you through the steps to download and add W3CSS to your HTML project.
 
