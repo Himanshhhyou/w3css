@@ -30,8 +30,7 @@ If you prefer to have more control over your project's dependencies or if you ar
    Visit the [W3CSS download page](https://www.w3schools.com/w3css/4/w3.css) and download the CSS file. Save it to your project directory.
 
 2. **Include the Local Stylesheet:**
-   In your HTML file, include the local W3CSS stylesheet within the `<head>` section. Adjust the `href` attribute to match the location where you saved the downloaded file.
+   In your HTML file, include the local W3CSS stylesheet within the `<head>` section. Adjust the `href` attribute to match the location where you saved the downloaded file.`
    ```html
    <link rel="stylesheet" href="path/to/your/w3.css">
-   ````
-   
+   ```
