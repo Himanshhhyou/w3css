@@ -24,6 +24,8 @@ W3CSS is a lightweight and responsive CSS framework developed by W3Schools, desi
 
 If you prefer to have more control over your project's dependencies or if you are working offline, you can download the W3CSS framework and include it locally in your project. This guide will walk you through the steps to download and add W3CSS to your HTML project.
 
+<div style="background-color: #f2f2f2; padding: 10px; border-radius: 5px;">
+
 ## Steps to Add W3CSS Locally
 
 1. **Download W3CSS:**
@@ -33,5 +35,3 @@ If you prefer to have more control over your project's dependencies or if you ar
    In your HTML file, include the local W3CSS stylesheet within the `<head>` section. Adjust the `href` attribute to match the location where you saved the downloaded file.
    ```html
    <link rel="stylesheet" href="path/to/your/w3.css">
-   ```
-   `
