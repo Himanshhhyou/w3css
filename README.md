@@ -24,7 +24,7 @@ W3CSS is a lightweight and responsive CSS framework developed by W3Schools, desi
 
 If you prefer to have more control over your project's dependencies or if you are working offline, you can download the W3CSS framework and include it locally in your project. This guide will walk you through the steps to download and add W3CSS to your HTML project.
 
-<div style="background-color: #f2f2f2; padding: 10px; border-radius: 5px;">
+<div style="background-color: #ff0000; padding: 10px; border-radius: 5px;">
 
 ## Steps to Add W3CSS Locally
 
