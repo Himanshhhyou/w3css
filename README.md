@@ -20,3 +20,17 @@ To use W3CSS in your project, simply include the W3CSS stylesheet in your HTML f
 
 ```html
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+```
+# W3 Container
+
+The W3 Container is a fundamental component of the W3CSS framework, providing a flexible and responsive container for your content. Containers are used to group, align, and structure various elements within a webpage.
+
+## Usage
+
+To utilize the W3 Container in your project, you can simply apply the `w3-container` class to the HTML element you want to act as a container. Here is an example:
+
+```html
+<div class="w3-container">
+  <!-- Your content goes here -->
+</div>
+```
